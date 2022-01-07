@@ -26,7 +26,7 @@ var isPositiveZero = require( '@stdlib/math-base-assert-is-positive-zero' );
 var isNegativeZero = require( '@stdlib/math-base-assert-is-negative-zero' );
 var Float64Array = require( '@stdlib/array-float64' );
 var num2str = require( './fixtures/num2str.js' );
-var gsort2hp = require( './../lib/gsort2hp.js' );
+var gsort2hp = require( './../lib' );
 
 
 // TESTS //
