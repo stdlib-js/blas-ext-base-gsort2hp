@@ -53,7 +53,9 @@ If no recognized module system is present, access bundle contents via the global
 ```html
 <script type="text/javascript">
 (function () {
+(function () {
     window.gsort2hp;
+})();
 })();
 </script>
 ```
@@ -201,6 +203,7 @@ console.log( y );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gsort2hp@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
+(function () {
 
 var rand;
 var sign;
@@ -228,6 +231,7 @@ gsort2hp( x.length, -1.0, x, -1, y, -1 );
 console.log( x );
 console.log( y );
 
+})();
 })();
 </script>
 </body>
@@ -320,9 +324,9 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 
 [mdn-typed-array]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
 
-[@stdlib/blas/ext/base/dsort2hp]: https://github.com/stdlib-js/blas-ext-base-dsort2hp/tree/umd
+[@stdlib/blas/ext/base/dsort2hp]: https://github.com/stdlib-js/blas-ext-base-dsort2hp/tree/umd/tree/umd
 
-[@stdlib/blas/ext/base/ssort2hp]: https://github.com/stdlib-js/blas-ext-base-ssort2hp/tree/umd
+[@stdlib/blas/ext/base/ssort2hp]: https://github.com/stdlib-js/blas-ext-base-ssort2hp/tree/umd/tree/umd
 
 [@williams:1964a]: https://doi.org/10.1145/512274.512284
 
