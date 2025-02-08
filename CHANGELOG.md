@@ -2,6 +2,51 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-02-08)
+
+<section class="features">
+
+### Features
+
+-   [`20f7173`](https://github.com/stdlib-js/stdlib/commit/20f71735fc68e3e501e5fc13fddbaf19900d0ebf) - add accessor arrays support and refactor `blas/ext/base/gsort2hp` [(#4660)](https://github.com/stdlib-js/stdlib/pull/4660)
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`20f7173`](https://github.com/stdlib-js/stdlib/commit/20f71735fc68e3e501e5fc13fddbaf19900d0ebf) - **feat:** add accessor arrays support and refactor `blas/ext/base/gsort2hp` [(#4660)](https://github.com/stdlib-js/stdlib/pull/4660) _(by Muhammad Haris, Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Muhammad Haris
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
