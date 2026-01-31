@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2025-03-17)
+## 0.3.0 (2026-01-31)
 
 <section class="features">
 
@@ -22,6 +22,9 @@
 
 <details>
 
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
+-   [`18f13dd`](https://github.com/stdlib-js/stdlib/commit/18f13dd315dd10580469ce4ed00447457b5dd7f4) - **docs:** fix example code _(by Philipp Burckhardt)_
+-   [`3e9f3a0`](https://github.com/stdlib-js/stdlib/commit/3e9f3a0bdc4c231521f39148dbff889815bae6d7) - **docs:** fix missing period _(by Athan Reines)_
 -   [`20f7173`](https://github.com/stdlib-js/stdlib/commit/20f71735fc68e3e501e5fc13fddbaf19900d0ebf) - **feat:** add accessor arrays support and refactor `blas/ext/base/gsort2hp` [(#4660)](https://github.com/stdlib-js/stdlib/pull/4660) _(by Muhammad Haris, Athan Reines)_
 
 </details>
@@ -34,10 +37,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Muhammad Haris
+-   Philipp Burckhardt
 
 </section>
 
