@@ -225,6 +225,8 @@ console.log( y );
 
 </section>
 
+<!-- /.references -->
+
 
 <section class="main-repo" >
 
