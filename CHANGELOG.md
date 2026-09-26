@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`836f90b`](https://github.com/stdlib-js/stdlib/commit/836f90b94d3bed822e8994b58e01b795ec414480) - **docs:** fix descriptions [(#15560)](https://github.com/stdlib-js/stdlib/pull/15560) _(by Philipp Burckhardt)_
 -   [`947861b`](https://github.com/stdlib-js/stdlib/commit/947861b6757ec760c221d6401a15b7b5ff8c314b) - **bench:** fix data generation [(#15535)](https://github.com/stdlib-js/stdlib/pull/15535) _(by Philipp Burckhardt)_
 -   [`66f69b6`](https://github.com/stdlib-js/stdlib/commit/66f69b6a7b81b28dce3b9b155a9d5fa4379184c0) - **bench:** fix data generation in `blas/ext/base` sort benchmarks [(#15512)](https://github.com/stdlib-js/stdlib/pull/15512) _(by JoyBoy)_
 -   [`cd863cf`](https://github.com/stdlib-js/stdlib/commit/cd863cfcc93259fc77714263c6c8b532c84563a3) - **docs:** propagate recent develop fixes to sibling packages [(#12642)](https://github.com/stdlib-js/stdlib/pull/12642) _(by Philipp Burckhardt)_
