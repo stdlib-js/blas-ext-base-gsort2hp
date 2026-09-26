@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-25)
+## Unreleased (2026-09-26)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`947861b`](https://github.com/stdlib-js/stdlib/commit/947861b6757ec760c221d6401a15b7b5ff8c314b) - **bench:** fix data generation [(#15535)](https://github.com/stdlib-js/stdlib/pull/15535) _(by Philipp Burckhardt)_
 -   [`66f69b6`](https://github.com/stdlib-js/stdlib/commit/66f69b6a7b81b28dce3b9b155a9d5fa4379184c0) - **bench:** fix data generation in `blas/ext/base` sort benchmarks [(#15512)](https://github.com/stdlib-js/stdlib/pull/15512) _(by JoyBoy)_
 -   [`cd863cf`](https://github.com/stdlib-js/stdlib/commit/cd863cfcc93259fc77714263c6c8b532c84563a3) - **docs:** propagate recent develop fixes to sibling packages [(#12642)](https://github.com/stdlib-js/stdlib/pull/12642) _(by Philipp Burckhardt)_
 -   [`ec68ca7`](https://github.com/stdlib-js/stdlib/commit/ec68ca7cc35210db29a028d561ec71968e2ff753) - **docs:** fix TSDoc errors in `blas` declarations [(#12529)](https://github.com/stdlib-js/stdlib/pull/12529) _(by Philipp Burckhardt, Athan Reines)_
